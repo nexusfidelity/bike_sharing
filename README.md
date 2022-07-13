@@ -14,7 +14,7 @@ This Case Study aims to understand what factors are affecting why applicants are
 - The dataset is used to find insights on which factors are affecting the number of users at a given day the uses the app.
 
 ## Conclusion
-- weather situation, what day it is (mon, tue, etc), and humidity are the biggest contributor to usage of the app!
+- weather situation, what day it is (mon, tue, etc), and humidity are the biggest contributor to the usage of the app!
 
 ## Acknowledgements
 - This project was inspired by http://www.boombikes.co.in/

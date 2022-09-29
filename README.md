@@ -1,5 +1,5 @@
 # Bike Sharing Linear Regression
-This Case Study aims to understand what factors are affecting why applicants are likely to default on their loans.
+This Case Study aims to understand what factors are affecting why users are using the app at that time/situation.
 
 
 ## Table of Contents
